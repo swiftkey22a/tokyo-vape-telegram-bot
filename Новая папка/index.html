@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tokyo Vape Shop</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Шапка -->
+        <header class="header">
+            <h1>🚀 TOKYO VAPE SHOP</h1>
+            <p class="subtitle">Актуальные остатки • Быстрый заказ</p>
+        </header>
+
+        <!-- Основной контент -->
+        <main class="main-content">
+            <!-- Загрузка -->
+            <div id="loading" class="loading">
+                <div class="spinner"></div>
+                <p>Загружаем каталог...</p>
+            </div>
+
+            <!-- Бренды -->
+            <div id="brands-section" class="section" style="display: none;">
+                <h2>🏷️ ВЫБЕРИ БРЕНД</h2>
+                <div id="brands-list" class="brands-grid"></div>
+            </div>
+
+            <!-- Товары бренда -->
+            <div id="products-section" class="section" style="display: none;">
+                <button id="back-to-brands" class="back-btn">◀️ Назад</button>
+                <h2 id="brand-title"></h2>
+                <div id="products-list" class="products-grid"></div>
+            </div>
+
+            <!-- Информация -->
+            <div class="info-box">
+                <p>📞 <strong>Заказ:</strong> Нажмите на товар → связь с менеджером</p>
+                <p>🔄 <strong>Обновлено:</strong> <span id="update-time">только что</span></p>
+            </div>
+        </main>
+
+        <!-- Подвал -->
+        <footer class="footer">
+            <p>© 2024 Tokyo Vape Shop • @arcsize</p>
+            <button id="refresh-btn" class="refresh-btn">🔄 Обновить</button>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

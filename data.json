@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "ВИШНЯ ЛЁД",
+      "price": "400",
+      "strength": "50MG",
+      "stock": 15
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "АНАНАС ГРАНАТ ЛЁД",
+      "price": "400",
+      "strength": "50MG",
+      "stock": 8
+    },
+    {
+      "brand": "ANIMMA",
+      "taste": "ПАСИФИК ВИШНЯ АЙС",
+      "price": "450",
+      "strength": "70MG",
+      "stock": 10
+    }
+  ]
+}
