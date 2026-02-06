@@ -1,25 +1,293 @@
 {
+  "last_update": "2026-02-06T20:45:38.677857",
+  "total": 41,
   "products": [
     {
-      "brand": "ЗЛАЯ МОНАШКА ICE",
-      "taste": "ВИШНЯ ЛЁД",
-      "price": "400",
-      "strength": "50MG",
-      "stock": 15
-    },
-    {
-      "brand": "ЗЛАЯ МОНАШКА ICE",
-      "taste": "АНАНАС ГРАНАТ ЛЁД",
-      "price": "400",
-      "strength": "50MG",
-      "stock": 8
+      "brand": "ANIMMA",
+      "taste": "ITACHI ВИШНЯ АЙС",
+      "price": "450",
+      "strength": "70MG",
+      "stock": 3
     },
     {
       "brand": "ANIMMA",
-      "taste": "ПАСИФИК ВИШНЯ АЙС",
+      "taste": "JUGO АРБУЗ АЙС",
       "price": "450",
       "strength": "70MG",
-      "stock": 10
+      "stock": 3
+    },
+    {
+      "brand": "ANIMMA",
+      "taste": "SASUKE МАЛИНА АЙС",
+      "price": "450",
+      "strength": "70MG",
+      "stock": 3
+    },
+    {
+      "brand": "ANIMMA LOVE SOUR",
+      "taste": "КИСЛЫЙ ЦИТРУСОВЫЙ СОК",
+      "price": "450",
+      "strength": "70MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL & MALASIAN",
+      "taste": "КЛУБНИЧНО ВИШНЕВАЯ КОНФЕТА",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL & MALASIAN",
+      "taste": "ДЫННО ЗЕМЛЯНИЧНАЯ РЕЗИНКА",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL & MALASIAN",
+      "taste": "ЛИМОННЫЙ КИСЛЯК",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL & MALASIAN",
+      "taste": "РАДУЖНЫЕ КОНФЕТКИ С КИСЛИНКОЙ",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL & MALASIAN",
+      "taste": "ЦИТРУСОВЫЙ ЦИКЛОН",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL & MALASIAN",
+      "taste": "ЭНЕРГИЯ БЕЗУМИЯ",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL",
+      "taste": "АЛОЭ ВИНОГРАД",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "CATSWILL",
+      "taste": "ЧЕРНИКА ЛЁД ЕЖЕВИКА",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 2
+    },
+    {
+      "brand": "DOTA",
+      "taste": "NATURE'S PROPHET СМОРОДИНОВАЯ МАМБА",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "DOTA & CATS",
+      "taste": "АНАНАСОВЫЙ ЛЕДЕНЕЦ",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "RICK AND MORTY & BAD TRIP ACID",
+      "taste": "КЛЮКВА ЛАЙМ",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "RICK AND MORTY & BAD TRIP ACID",
+      "taste": "ЛИМОННЫЕ ЛЕДЕНЦЫ",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "RICK AND MORTY & BAD TRIP ACID",
+      "taste": "ЧЕРНИКА ЛИМОН",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "RICK AND MORTY & BAD TRIP ACID",
+      "taste": "ЯБЛОКО ЛАЙМ",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "PODONKI SOUR",
+      "taste": "КИСЛАЯ ЖВАЧКА ЯБЛОКО",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "PODONKI SOUR",
+      "taste": "КИСЛЫЙ АНАНАСОВЫЙ СОК",
+      "price": "450",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "АБРИКОСОВАЯ ЖВАЧКА",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "АНАНАС ГРАНАТ ЛЕД",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "ВИНОГРАДНЫЕ ЛЕДЕНЦЫ",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 2
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "ВИШНЯ АНАНАС ЛЕД",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "ВИШНЯ ЛЕД",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "ГАЗИРОВКА С ВИНОГРАДОМ И АЛОЕ ЛЁД",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "ГАЗИРОВКА С КЛУБНИКОЙ И КИВИ ЛЁД",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА ICE",
+      "taste": "ГРЕЙПФРУТОВЫЙ ШВЕПС ЛЁД",
+      "price": "500",
+      "strength": "50MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА SOUR",
+      "taste": "КИСЛАЯ АЛЫЧА С БРУСНИКОЙ",
+      "price": "500",
+      "strength": "70MG",
+      "stock": 2
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА SOUR",
+      "taste": "КИСЛЫЙ АПЕЛЬСИН",
+      "price": "500",
+      "strength": "70MG",
+      "stock": 2
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА SOUR",
+      "taste": "КИСЛЫЙ ГРЕЙПФРУТ",
+      "price": "500",
+      "strength": "70MG",
+      "stock": 1
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА SOUR",
+      "taste": "КИСЛЫЙ НЕКТАРИН СО СЛИВОЙ",
+      "price": "500",
+      "strength": "70MG",
+      "stock": 3
+    },
+    {
+      "brand": "ЗЛАЯ МОНАШКА SOUR",
+      "taste": "ЛИМОННАЯ КИСЛОТА С КЛЮКВОЙ",
+      "price": "500",
+      "strength": "70MG",
+      "stock": 2
+    },
+    {
+      "brand": "САМОУБИЙЦА V2 DANGER",
+      "taste": "LIT ENERGY ГРАНАТ",
+      "price": "500",
+      "strength": "80MG",
+      "stock": 2
+    },
+    {
+      "brand": "САМОУБИЙЦА V2 DANGER",
+      "taste": "LIT ENERGY ПЕРСИК",
+      "price": "500",
+      "strength": "80MG",
+      "stock": 2
+    },
+    {
+      "brand": "САМОУБИЙЦА V2 DANGER",
+      "taste": "КИСЛОЕ ЯБЛОКО Я ЕЖЕВИКОЙ",
+      "price": "500",
+      "strength": "80MG",
+      "stock": 2
+    },
+    {
+      "brand": "САМОУБИЙЦА V2 DANGER",
+      "taste": "АРБУЗНО ДЫННЫЙ ФРЕШ",
+      "price": "500",
+      "strength": "80MG",
+      "stock": 2
+    },
+    {
+      "brand": "САМОУБИЙЦА V2 DANGER",
+      "taste": "ВИШНЕВЫЙ ЙОГУРТ",
+      "price": "500",
+      "strength": "80MG",
+      "stock": 2
+    },
+    {
+      "brand": "VAPORESSO XROS 5",
+      "taste": "JADE GREEN",
+      "price": "2400",
+      "strength": "",
+      "stock": 1
+    },
+    {
+      "brand": "VAPORESSO XROS 5 LIMITED",
+      "taste": "RED LEATHER",
+      "price": "2400",
+      "strength": "",
+      "stock": 1
+    },
+    {
+      "brand": "VAPORESSO XROS 5 MINI LIMITED",
+      "taste": "MIST WHITE",
+      "price": "2100",
+      "strength": "",
+      "stock": 1
     }
   ]
 }
