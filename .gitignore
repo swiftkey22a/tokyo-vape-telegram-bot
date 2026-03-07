@@ -1,2 +1,26 @@
-google_key.json 
-config.json 
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+env/
+
+# Файлы с секретами
+.env
+*.env
+config.json
+google_key.json
+bot_stats.db
+
+# Логи
+logs/
+*.log
+
+# Системные файлы
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
