@@ -2,7 +2,7 @@ import asyncio
 import logging
 import sqlite3
 from datetime import datetime
-from aiogram import Bot, Dispatcher, types, Fп
+from aiogram import Bot, Dispatcher, types, F
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 from aiogram.utils.keyboard import InlineKeyboardBuilder
